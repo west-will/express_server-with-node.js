@@ -1,1 +1,3 @@
-I have been away alot lately due to recent events in my life and have not been able to attend many lectures of this course and therefore i was not up to date with how to go ahead and do different things for this task, i did not quite get the hang of the exercise even with AI as AI didn't quite understand the given tasks either. So i asked Valtteri for his code for me to look through, i have read through everything and understand this now to an extent, and will make exercise 5 on basis of the code in this project.
+For exercise 5 i split the code into three files, so that for example server.js only starts the server and so on.
+
+I added a todo.test.js & app.test.js, used help from AI & online documentation to fulfil these tasks
